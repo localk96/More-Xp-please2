@@ -2,8 +2,10 @@
   {
     "name": "MoreXp2",
     "cost": 0,
-    "uniques": [ "Automatically built in all cities where it is buildable",
+    "uniques": ["Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
 		    "Unbuildable <for [AI player]>",
-        "New [Military] units start with [300] Experience [in all cities]"}
+        "New [Military] units start with [300] Experience [in all cities]"
+    ]
+	    }
 ]
